@@ -13,7 +13,7 @@ Note: No one warns you about anything if you use Linux. You do the warning.
 
 The program and the source code is all created with the open source MIT License.
 
-The zine has its own license, which is in its .zip file.
+The zine has its own license, which is in its .zip file. 
 
 Have fun!
 
