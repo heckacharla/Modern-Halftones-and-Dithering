@@ -1,6 +1,6 @@
 Welcome to **Modern Halftones and Dithering**, a utility for making 1-bit, monochrome images from your color or grayscale images!
 
-To get started, please download the PDF of the zine that serves as some background info and history on reproducing black and white images, as well as a manual for the program. [Get the zine here](PASTE_ZINE_LINK_HERE).
+To get started, please download the PDF of the zine that serves as some background info and history on reproducing black and white images, as well as a manual for the program. [Get the zine here](https://github.com/heckacharla/Modern-Halftones-and-Dithering/releases/download/v0.83/Modern.Halftones.Zine.zip).
 
 If you have Microsoft Windows, you should download [this zip file](https://github.com/heckacharla/Modern-Halftones-and-Dithering/releases/download/v0.83/Modern.Halftones.Dithering_v0.8.3.zip), which has the .exe and everything you need to run. **Note**: *Windows may be like "I am not sure if this is safe," but you can click "More Info" and then "Run anyway" to proceed. It's safe, Windows just gets nervous about software it hasn't seen before. (See FAQ below)*
 
